@@ -39,6 +39,7 @@ The AI work — **Catalyst**, every AI in one workspace — lives in the
 | [`geomeasure_osm`](https://github.com/objectgraph/geomeasure_osm) | Geo Measure on OpenStreetMap, in the browser |
 | [`httplabs`](https://github.com/objectgraph/httplabs) | [httplabs.com](https://httplabs.com) |
 | [`samegame`](https://github.com/objectgraph/samegame) · [`SameGameBlazor`](https://github.com/objectgraph/SameGameBlazor) | SameGame, the puzzle, in JavaScript and in Blazor |
+| [`jev-samegame-bench`](https://github.com/objectgraph/jev-samegame-bench) | What should a decision model be shown to play SameGame? 21 prompt strategies for TypeSafe's Jev on [samegame.app](https://samegame.app), every request and response, MIT |
 | [`electron-pdf-window`](https://github.com/objectgraph/electron-pdf-window) | View PDF files in Electron browser windows |
 
 ---
